@@ -5,7 +5,15 @@
     align-items: center;
     justify-content: flex-start;
     gap: 10px;
-    background-color: rgb(66, 112, 106);
+    background-color: rgb(94, 122, 120);
+}
+
+.app > .card {
+    width: 60%;
+    align-items: center;
+    background-color: rgb(228, 247, 241);
+    box-sizing: border-box;
+    border: 2px solid rgba(255, 255, 255, 0)
 }
 
 .row {

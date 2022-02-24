@@ -1,6 +1,6 @@
 .nav {
     width: 100%;
-    background-color: rgb(86, 128, 114);
+    background-color: rgb(94, 122, 113);
 }
 
 .nav-link {
@@ -9,6 +9,6 @@
 }
 
 .nav-link:hover {
-    color: rgb(207, 216, 189);
+    color: rgb(214, 207, 172);
     font-weight: bolder;
 }

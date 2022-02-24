@@ -17,6 +17,7 @@ function Resume() {
                             <p className='lead'>Software Developer</p>
                             <div className="contact card">
                                 <div className="card-body">
+                                    <h5>Contact Me</h5>
                                     <ul className="contact-list">
                                         <li>
                                             <a href="mailto:ben.nies1017@gmail.com?subject=Hello!"><img src="#" alt="email"></img> ben.nies1017@gmail.com</a>
