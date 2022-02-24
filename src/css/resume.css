@@ -1,0 +1,51 @@
+.resume {
+    width: 60%;
+    align-items: center;
+    background-color: rgb(141, 190, 174);
+    color:rgb(25, 43, 40);
+    box-sizing: border-box;
+    border: 2px solid rgba(255, 255, 255, 0)
+}
+
+.left {
+    min-width: fit-content;
+    align-self: center;
+}
+
+.right {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    justify-content: flex-start;
+}
+
+.contact-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.contact-list > li {
+    display: flex;
+    gap: 10px;
+}
+
+.headshot {
+    border-radius: 10px;
+}
+
+.contact, .job-item {
+    border: 1px solid rgb(66, 112, 106);
+}
+
+.resume:hover {
+    border: 2px solid white;
+}
+
+.education {
+    padding-left: 20px;
+}
+
+.skills {
+    width: 40%;
+}

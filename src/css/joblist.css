@@ -1,0 +1,22 @@
+.job-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.job-item {
+    width: 70%;
+}
+
+.top {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.duties {
+    list-style-type: disc;
+}
